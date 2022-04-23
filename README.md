@@ -3,7 +3,7 @@
 </div>
 <h1>
   Namaste!
-  <img src="https://c.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" width="40px"/>
+  <img src="https://c.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" width="50px"/>
 </h1>
 <h3>About me.</h3>
 - 👨‍💻 I am a Full Stack Developer from India.<br>
