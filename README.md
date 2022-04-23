@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1>
-  Namaste! 🙏
-<!--   <img src="https://tenor.com/view/namaste-gif-25167513" width="30px"/> -->
+  Namaste!
+  <img src="https://c.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" width="40px"/>
 </h1>
 <h3>About me.</h3>
 - 👨‍💻 I am a Full Stack Developer from India.<br>
-- 👀 I’m interested in Vulnerability Assessment and ethical hacking<br>
-- 🌱 I’m currently learning MEAN stack technology<br>
-- 📫 How to reach me: <a href=https://github.com/Aalok-Kesarkar>LinkedIn</a>
+- 👀 Interested in Vulnerability Assessment and ethical hacking<br>
+- 🌱 Currently, I'm studying MEAN stack technologies.<br>
+- 📫 How to reach me: <a href=https://www.linkedin.com/in/aalok-kesarkar>LinkedIn</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
