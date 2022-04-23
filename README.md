@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1>
-  namaste! 🙏
+  Namaste! 🙏
 <!--   <img src="https://tenor.com/view/namaste-gif-25167513" width="30px"/> -->
 </h1>
 <h3>About me.</h3>
