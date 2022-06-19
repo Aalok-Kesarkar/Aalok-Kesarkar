@@ -10,6 +10,11 @@
 - 👀 Interested in Vulnerability Assessment and ethical hacking<br>
 - 🌱 Currently, I'm studying MEAN stack technologies.<br>
 - 📫 How to reach me: <a href=https://www.linkedin.com/in/aalok-kesarkar>LinkedIn</a>
+<br><br>
+
+<a href=https://tryhackme.com/p/Aalok.Kesarkar>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Aalok.Kesarkar.png" alt="TryHackMe">
+</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
