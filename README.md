@@ -12,9 +12,9 @@
 - 📫 How to reach me: <a href=https://www.linkedin.com/in/aalok-kesarkar>LinkedIn</a>
 <br><br>
 
-<!-- <a href=https://tryhackme.com/p/Aalok.Kesarkar>
-<img src=https://tryhackme-badges.s3.amazonaws.com/Aalok.Kesarkar.png />
-</a> -->
+<a href=https://tryhackme.com/p/Aalok.Kesarkar>
+<img src=https://user-images.githubusercontent.com/84756887/174617876-da55147c-c82a-4457-a7b0-21d7366d75a0.png alt="TryHackMe badge" title="In top 6% users on THM"/>
+</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
